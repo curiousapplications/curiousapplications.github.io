@@ -1,0 +1,50 @@
+intro:
+  lead-in: "From discovery to scale: value through focus"
+  heading: Apps with impact
+  btn: How we do it 
+
+services:
+  heading: How we do it
+  subheading: Our secret sauce
+  service:
+    - icon: fa fa-shopping-cart
+      heading: Judgement
+      text: The most important aspect to delivering value on a budget is doing the right thing with the time you have. We work with clients to determine which features are core, which need to be explored, and which can come later. We focus on the neesd of today, with a plan for tomorrow!
+    - icon: fa fa-shopping-cart
+      heading: Discipline
+      text:  Simplicity begets velocity. From our experience in rescuing legacy apps, the common thread was the cost of hastily made decisions.  Our secret sauce? Reduce complexity! We start every app with forethought for future needs, and dedication to keeping things clean.  
+    - icon: fa fa-camera-retro
+      heading: Technology
+      text: From our dedication to the craft, we filter every decision we make through a feedback loop.  We use Swift, MVVM, unidirectional flow, reactive techniques, code generation, and micro libraries for layout, data bindings and UI controls.  We levereage the gains from our commitment to judgement and simplicity.
+
+portfolio:
+  heading: Portfolio Title
+  subheading: Portfolio Subtitle
+
+about:
+  heading: About Title
+  subheading: About subtitle
+  timeline:
+    - image: img/about/1.jpg
+      title: First Image Title
+      date: Jan 1, 1970
+      text: Sample text for portfolio
+    - image: img/about/2.jpg
+      title: Image Title
+      date: Jan 1, 1970
+      text: Sample text for portfolio
+    - image: img/about/3.jpg
+      title: Image Title
+      date: Jan 1, 1970
+      text: Sample text for portfolio
+  end1: Be part
+  end2: of our
+  end3: Story!
+
+team:
+  heading: Team Title
+  subheading: Team Subtitle
+  members:
+    - name: Chris
+      role: Engineer
+      img: /img/team/ChrisProfilePhoto.jpg

@@ -1,0 +1,13 @@
+brand:
+  name: Curious Applicatons
+menu-string: Menu
+
+nav:
+  - title: Services
+    url: '/#services'
+  - title: Portfolio
+    url: '#portfolio'
+  - title: About
+    url: '/#about'
+
+copyright: Copyright © 2019 Curious Applications.  All rights reserved
