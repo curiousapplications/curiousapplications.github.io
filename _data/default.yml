@@ -2,12 +2,18 @@ brand:
   name: Curious Applicatons
 menu-string: Menu
 
+
+
+copyright: Copyright © 2019 Curious Applications.  All rights reserved
+
 nav:
   - title: Services
     url: '/#services'
-  - title: Portfolio
-    url: '#portfolio'
-  - title: About
+  - title: Approach
+    url: '/#approach'    
+  - title: Highlights
     url: '/#about'
-
-copyright: Copyright © 2019 Curious Applications.  All rights reserved
+  - title: About
+    url: '/#team'
+  - title: 'Contact'
+    url: '/#contact'

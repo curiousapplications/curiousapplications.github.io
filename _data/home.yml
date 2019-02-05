@@ -1,58 +1,83 @@
 intro:
-  lead-in: "From discovery to scale: value through focus"
+  lead-in: "Prototypes to polish, MVP to scale"
   heading: Apps with impact
-  btn: How we do it
+  btn: What we do
 
 services:
   heading: Services
   subheading: What we do!
   service:
     - icon: fa fa-shopping-cart
-      heading: Great new apps!
+      heading: Great apps
       text: From startups to internal enterprise apps, we love creating value for our clients. Beauty may be skin deep, but we pride ourselves in writing the simplest, smallest, most agile solutions that solve our client's needs. If you have a vision that you want to bring to live, we are listening!
     - icon: fa fa-shopping-cart
-      heading: Legacy Updates
-      text:  Have an app that needs some love? We can help you update and fix issues with your existing app.  Anyone can start a new app, but without proper discipline, projects hit a wall from technical debt.  We help clients get back on track by simplifying what they have, and adding new features at an increased velocity.
+      heading: Mid Course Corrections
+      text:  Have an app that needs some love? We can help you update and fix issues with your existing app.  Anyone can start a new app, but without proper discipline, projects hit a wall from technical debt.  We help clients get back on track by simplifying what they have and adding new features at an increased velocity.
     - icon: fa fa-camera-retro
-      heading: Additional Help
+      heading: Extra Help
       text: Need to augment your existing team?  We know the key to helping teams increase their pace, is to get up to speed quickly. We have helped clients not only catch up to their product roadmaps, but also eliminate entire problem areas through automation.  If you have an existing team but want to accelerate your place, we can help!
 
 approaches:
   heading: How we do it
   subheading: Our secret sauce
   approach:
-    - heading: Communication
+    - heading: Prioritization
       text: The most important aspect to delivering value on a budget is doing the right thing with the time you have. We work with clients to determine which features are core, which need to be explored, and which can come later. We focus on the needs of today, with a plan for tomorrow!
-    - heading: Discipline
-      text:  Simplicity begets velocity. From our experience in rescuing legacy apps, the common thread was the cost of hastily made decisions.  Our secret sauce? Reduce complexity! We start every app with forethought for future needs, and dedication to keeping things clean.  
-    - heading: Technology
+    - heading: Dedication
+      text:  Simplicity begets velocity. From our experience in helping clients get legacy apps back on track, the common thread is the cost of hastily made decisions.  Our secret sauce? Reduce complexity! We start every app with forethought for future needs, and dedication to keeping things simple and clean.  
+    - heading: Efficiency
       text: From our dedication to the craft, we filter every decision we make through a feedback loop.  We use Swift, MVVM, unidirectional flow, reactive techniques, code generation, and micro libraries for layout, data bindings and UI controls.  We leverage the gains from our commitment to judgement and simplicity.
 
-portfolio:
-  heading: Portfolio Title
-  subheading: Portfolio Subtitle
+# portfolio:
+#   heading: Portfolio Title
+#   subheading: Portfolio Subtitle
 
 about:
-  heading: Curious Applications
+  heading: Recent Highlights
   subheading: Some of our recent work
   timeline:
-    - image: img/about/1.jpg
-      title: Methodist Healthcare
-      text: Methodist Healthcare needed an application to help them track patient and hospital data.  The result was the pinnacle of all our experience, a hybridized real & mock data model that provided clean internal interfaces for generated model code while allowing uninterrupted client side improvements, clever and minimal micro libraries for deep view linking, UI layout, reactive data bindings, and context free UI controls. 
-    - image: img/about/2.jpg
+    - image: img/portfolio/methodist-logo.svg
+      title: Methodist Le Bonheur Healthcare
+      text: Methodist Le Bonheur Healthcare hired us to build an app to help them achieve higher efficiency in their organization. We achieved this with modern functional reactive techniques, code generation, powerful view routing techniques, clean internal modeling to avoid vendor lock-in, and careful structuring to allow them to deploy subsets of the app to other devices. The result with a small, agile codebase that scales both up and down, solving not just their current needs, but laying the foundation for future projects.
+    - image: img/portfolio/ava-logo.png
       title: Ava
-      text: Ava is the creator of the groundbreaking Ava app that helps deaf people participate in group conversations. They needed needed extra help in getting their iOS app caught up with their Android app. We worked with them to simplify what they had, migration to modern techniques, and build a solid foundation for more rapid development.  In doing so, the iOS app became their lead development platform.  Ava launched to the public and scaled to over 100K users within two weeks.
+      text: Ava is the creator of the groundbreaking Ava app that helps deaf people participate in group conversations. Ava hired us to get their iOS app development back on schedule. We worked with them to simplify what they had, and migrate to modern techniques to lay the foundation for more rapid development.  The iOS app became the lead development platform.  Ava launched to the public and scaled successfully to over 100K users within two weeks.
     - image: img/portfolio/twine-logo.svg
       title: Twine
-      text: Sample text for portfolio
+      text: Twine hired us to help augment their team, and ensure a successful beta launch of their app.  They also wanted incremental progress on analytics.  What we delivered instead, was code generation driven from their spreadsheet based specification. This generated the boiler plate for all their present and future needs, and eliminated what would have been months of painstaking work. It also allowed them to add and migrate new concerns with complete confidence that any issue in the client code would be caught immediately, eliminating the possibility of an all to common class of bugs.  The result?  Accelerated development schedule, and another happy client.
   end1: Be part
   end2: of our
   end3: Story!
 
+
+
 team:
   heading: Behind the curtains
-  subheading: At Curious Applications, the "we" is royal
+  subheading: At Curious Applications, the "we" is "me"!
   members:
     - name: Chris
-      role: Engineer
+      role: Principle, Lead Developer, Janitor
       img: /img/team/ChrisProfilePhoto.jpg
+      bio: |
+        Hi!  I am Chris Conover, do-er of all things at Curious Applications.  I have over 20 years of industry experience, a background in computer science, and forward looking attention to detail. Since 2013, I have been helping clients bring their dreams to life in the mobile app space.  I am excited about technology and modern modes of interaction, from spirited screen based UI and augmented and mixed reality, to audio and haptics based interfaces leveraging wearable devices.
+      
+        I am interested in what you are working on and would love to hear from you!
+      
+
+contact:
+  heading: Contact Us
+  subheading: This is the contact subheading!
+  name: Your Name *
+  name-required: Please enter your name.
+  email: Your Email *
+  email-required: Please enter your email address.
+  phone: Your Phone *
+  phone-required: Please enter your phone number.
+  message: Your Message *
+  message-required: Please enter a message.
+  btn: Send Message
+
+  js-url: 'https://formspree.io/chrisconover@icloud.com'
+  js-success: 'Your message has been sent. '
+  js-error: 'Sorry " + firstName + ", it seems that my mail server is not responding. Please try again later!'
+  js-error-min: 'Sorry "+i+", it seems that my mail server is not responding. Please try again later!'
