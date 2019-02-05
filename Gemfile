@@ -10,9 +10,13 @@ source "https://rubygems.org"
 # Happy Jekylling!
 gem "jekyll", "~> 3.8.5"
 
+# github pages gem
+# gem 'github-pages', group: :jekyll_plugins
+
 # This is the default theme for new Jekyll sites. You may change this to anything you like.
 # gem "minima", "~> 2.0"
-gem "jekyll-theme-startbootstrap-agency", :path => 'themes'
+
+# gem "jekyll-theme-startbootstrap-agency", :remote_theme => 'curiousapplications/jekyll-theme-startbootstrap-agency'
 
 # If you want to use GitHub Pages, remove the "gem "jekyll"" above and
 # uncomment the line below. To upgrade, run `bundle update github-pages`.
