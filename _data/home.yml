@@ -1,5 +1,5 @@
 intro:
-  lead-in: "Prototypes to polish, MVP to scale"
+  lead-in: "From prototypes to polish:"
   heading: Apps with impact
   btn: What we do
 
@@ -9,13 +9,13 @@ services:
   service:
     - icon: fa fa-shopping-cart
       heading: Great apps
-      text: From startups to internal enterprise apps, we love creating value for our clients. Beauty may be skin deep, but we pride ourselves in writing the simplest, smallest, most agile solutions that solve our client's needs. If you have a vision that you want to bring to live, we are listening!
+      text: From startups to enterprise apps, we love creating value for our clients. Beauty may be skin deep, but we pride ourselves in writing the simplest, smallest, and most agile solutions that solve our client's needs. If you have a vision that you want to bring to life, we can get it done right, and with lasting value.
     - icon: fa fa-shopping-cart
       heading: Mid Course Corrections
       text:  Have an app that needs some love? We can help you update and fix issues with your existing app.  Anyone can start a new app, but without proper discipline, projects hit a wall from technical debt.  We help clients get back on track by simplifying what they have and adding new features at an increased velocity.
     - icon: fa fa-camera-retro
       heading: Extra Help
-      text: Need to augment your existing team?  We know the key to helping teams increase their pace, is to get up to speed quickly. We have helped clients not only catch up to their product roadmaps, but also eliminate entire problem areas through automation.  If you have an existing team but want to accelerate your place, we can help!
+      text: Need to augment your existing team?  We know the key to helping teams increase their pace, is to get up to speed quickly. We have helped clients not only catch up to their product road-maps, but also eliminate entire problem areas through automation.  If you have an existing team but want to accelerate your place, we can help!
 
 approaches:
   heading: How we do it
@@ -26,7 +26,7 @@ approaches:
     - heading: Dedication
       text:  Simplicity begets velocity. From our experience in helping clients get legacy apps back on track, the common thread is the cost of hastily made decisions.  Our secret sauce? Reduce complexity! We start every app with forethought for future needs, and dedication to keeping things simple and clean.  
     - heading: Efficiency
-      text: From our dedication to the craft, we filter every decision we make through a feedback loop.  We use Swift, MVVM, unidirectional flow, reactive techniques, code generation, and micro libraries for layout, data bindings and UI controls.  We leverage the gains from our commitment to judgement and simplicity.
+      text: From our dedication to the craft, we filter every decision we make through a feedback loop.  We use Swift, MVVM, unidirectional flow, reactive techniques, code generation, and micro libraries for layout, data bindings and UI controls.  We leverage the gains from our commitment to judgement and simplicity to create lasting value.
 
 # portfolio:
 #   heading: Portfolio Title
@@ -53,10 +53,10 @@ about:
 
 team:
   heading: Behind the curtains
-  subheading: At Curious Applications, the "we" is "me"!
+  subheading: At Curious Applications, the "we" is "me"
   members:
     - name: Chris
-      role: Principle, Lead Developer, Janitor
+      role: Principle, Lead Developer, Accountant
       img: /img/team/ChrisProfilePhoto.jpg
       bio: |
         Hi!  I am Chris Conover, do-er of all things at Curious Applications.  I have over 20 years of industry experience, a background in computer science, and forward looking attention to detail. Since 2013, I have been helping clients bring their dreams to life in the mobile app space.  I am excited about technology and modern modes of interaction, from spirited screen based UI and augmented and mixed reality, to audio and haptics based interfaces leveraging wearable devices.
