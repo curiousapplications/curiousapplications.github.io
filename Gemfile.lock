@@ -1,3 +1,10 @@
+GIT
+  remote: https://github.com/curiousapplications/jekyll-theme-startbootstrap-agency.git
+  revision: a54f58e97901127a940f117f9d89bbe6b9c30150
+  specs:
+    jekyll-theme-startbootstrap-agency (0.2.4)
+      jekyll (~> 3.8)
+
 GEM
   remote: https://rubygems.org/
   specs:
@@ -61,6 +68,7 @@ PLATFORMS
 DEPENDENCIES
   jekyll (~> 3.8.5)
   jekyll-feed (~> 0.6)
+  jekyll-theme-startbootstrap-agency!
   tzinfo-data
 
 BUNDLED WITH
