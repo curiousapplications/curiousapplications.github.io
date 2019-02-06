@@ -39,8 +39,8 @@ collections: # Enables additional data structures
 markdown: kramdown
 # theme: minima
 
-# remote_theme: curiousapplications/jekyll-theme-startbootstrap-agency
-theme: jekyll-theme-startbootstrap-agency
+remote_theme: curiousapplications/jekyll-theme-startbootstrap-agency
+# theme: jekyll-theme-startbootstrap-agency
 plugins:
   - jekyll-feed
 
