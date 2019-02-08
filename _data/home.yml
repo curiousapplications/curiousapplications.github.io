@@ -1,6 +1,7 @@
 intro:
-  lead-in: "From prototypes to polish:"
+  lead-in: "from prototypes to polish"
   heading: Apps with impact
+  # heading: Curious Applications
   btn: What we do
 
 services:
@@ -66,7 +67,7 @@ team:
 
 contact:
   heading: Contact Us
-  subheading: This is the contact subheading!
+  subheading: Let's build something great!
   name: Your Name *
   name-required: Please enter your name.
   email: Your Email *
