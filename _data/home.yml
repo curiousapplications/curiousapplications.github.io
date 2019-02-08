@@ -8,13 +8,13 @@ services:
   heading: Services
   subheading: What we do!
   service:
-    - icon: fa fa-shopping-cart
+    - icon: fa fa-mobile-alt
       heading: Great apps
       text: From startups to enterprise apps, we love creating value for our clients. Beauty may be skin deep, but we pride ourselves in writing the simplest, smallest, and most agile solutions that solve our client's needs. If you have a vision that you want to bring to life, we can get it done right, and with lasting value.
-    - icon: fa fa-shopping-cart
+    - icon: fa fa-bug
       heading: Mid Course Corrections
       text:  Have an app that needs some love? We can help you update and fix issues with your existing app.  Anyone can start a new app, but without proper discipline, projects hit a wall from technical debt.  We help clients get back on track by simplifying what they have and adding new features at an increased velocity.
-    - icon: fa fa-camera-retro
+    - icon: fas fa-users-cog
       heading: Extra Help
       text: Need to augment your existing team?  We know the key to helping teams increase their pace, is to get up to speed quickly. We have helped clients not only catch up to their product road-maps, but also eliminate entire problem areas through automation.  If you have an existing team but want to accelerate your place, we can help!
 

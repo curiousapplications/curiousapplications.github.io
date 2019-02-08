@@ -1,6 +1,6 @@
 GIT
   remote: https://github.com/curiousapplications/jekyll-theme-startbootstrap-agency.git
-  revision: d810ce82e040c50e0cd5ccff1a733bfe69a7dfd4
+  revision: 0af6d2b384f39a993483dc59a20634d1947e6293
   specs:
     jekyll-theme-startbootstrap-agency (0.2.4)
       jekyll (~> 3.8)
