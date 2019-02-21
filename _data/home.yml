@@ -78,7 +78,7 @@ contact:
   message-required: Please enter a message.
   btn: Send Message
 
-  js-url: 'https://formspree.io/chrisconover@icloud.com'
+  js-url: 'https://formspree.io/info@curiousapplications.com'
   js-success: 'Your message has been sent. '
   js-error: 'Sorry " + firstName + ", it seems that my mail server is not responding. Please try again later!'
   js-error-min: 'Sorry "+i+", it seems that my mail server is not responding. Please try again later!'
