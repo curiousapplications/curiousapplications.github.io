@@ -27,6 +27,7 @@ gem "jekyll-theme-startbootstrap-agency", git: "https://github.com/curiousapplic
 group :jekyll_plugins do
   gem "jekyll-feed", "~> 0.6"
   gem "jekyll-remote-theme"
+  gem "jekyll-seo-tag"
 end
 
 # Windows does not include zoneinfo files, so bundle the tzinfo-data gem

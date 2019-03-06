@@ -1,6 +1,6 @@
 GIT
   remote: https://github.com/curiousapplications/jekyll-theme-startbootstrap-agency.git
-  revision: 0af6d2b384f39a993483dc59a20634d1947e6293
+  revision: 28e7358c772743f94d865703e3e00ad1613afc7f
   specs:
     jekyll-theme-startbootstrap-agency (0.2.4)
       jekyll (~> 3.8)
@@ -41,6 +41,8 @@ GEM
       rubyzip (>= 1.2.1, < 3.0)
     jekyll-sass-converter (1.5.2)
       sass (~> 3.4)
+    jekyll-seo-tag (2.5.0)
+      jekyll (~> 3.3)
     jekyll-watch (2.1.2)
       listen (~> 3.0)
     kramdown (1.17.0)
@@ -73,6 +75,7 @@ DEPENDENCIES
   jekyll (~> 3.8.5)
   jekyll-feed (~> 0.6)
   jekyll-remote-theme
+  jekyll-seo-tag
   jekyll-theme-startbootstrap-agency!
   tzinfo-data
 

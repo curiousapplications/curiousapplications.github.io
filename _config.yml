@@ -26,9 +26,9 @@ sass: # Enables the conversion of css/agency.min.scss to  css/agency.min.css
 #   projects: # Enables _projects
 
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://curiousapplications.com" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username:  jekyll
+url: "https://curiousapplications.com"
+twitter_username: chrislconover
+github_username:  chrislconover
 
 collections: # Enables additional data structures
   projects: # Enables _projects
@@ -41,6 +41,7 @@ remote_theme: curiousapplications/jekyll-theme-startbootstrap-agency
 # theme: jekyll-theme-startbootstrap-agency
 plugins:
   - jekyll-feed
+  - jekyll-seo-tag
 
 # Development settings
 port: 2000
