@@ -13,8 +13,8 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Curious Applications
-email: your-email@example.com
+title: Curious Applications - Thoughtful App Development
+# email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
   Creating lasting value through thoughtful mobile app development. Do you need help with an app development project? Let's talk about how we can deliver the results you want!
 author: Chris Conover
@@ -42,6 +42,7 @@ remote_theme: curiousapplications/jekyll-theme-startbootstrap-agency
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
+  - jekyll-sitemap
 
 # Development settings
 port: 2000
