@@ -26,7 +26,7 @@ sass: # Enables the conversion of css/agency.min.scss to  css/agency.min.css
 #   projects: # Enables _projects
 
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://curiousapplications.com"
+url: "https://www.curiousapplications.com"
 twitter_username: chrislconover
 github_username:  chrislconover
 
