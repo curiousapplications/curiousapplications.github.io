@@ -37,6 +37,12 @@ work:
   heading: Recent Highlights
   subheading: Some of our recent work
   clients:
+    - title: Toohla
+      image: img/portfolio/toohla-logo.webp
+      text: Toohla approached us to implement their novel personal carbon tracking app.  We implemented and evolved their MVP, and worked with the team to vet, test, and scale their existing web service. The result was an app that allowed them to explore and develop their market fit, supported by robust code generation for rapid evolution of modeling and testing, allowing them to nimbly adapt to lessons from market discovery, with the the full assurance of enterprise level testing.
+    - title: Whisper
+      image: img/portfolio/whisper-logo.webp
+      text: Whisper needed an iOS companion app for their truly revolutionary ML powered hearing aids that get better over time. Together we built a beautifully designed app that allowed the user to not just connect and control the hearing aids, but also gather patient experiences and facilitate upgrades.  The result was a first-in-class experience for their delighted customers, who went from declining hearing to being able to hear better with each update.
     - image: img/portfolio/methodist-logo.svg
       title: Methodist Le Bonheur Healthcare
       text: Methodist Le Bonheur Healthcare hired us to build an app to help them achieve higher efficiency in their organization. We achieved this with modern functional reactive techniques, code generation, powerful view routing techniques, clean internal modeling to avoid vendor lock-in, and careful structuring to allow them to deploy subsets of the app to other devices. The result with a small, agile codebase that scales both up and down, solving not just their current needs, but laying the foundation for future projects.
