@@ -38,3 +38,8 @@ gem "tzinfo-data", platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 gem "wdm", "~> 0.1.0" if Gem.win_platform?
 
 gem "webrick", "~> 1.8"
+
+# Removed from Ruby 3.4's default gems; required by Jekyll 3.9 and Liquid 4
+gem "csv"
+gem "base64"
+gem "bigdecimal"

@@ -31,7 +31,7 @@ twitter_username: chrislconover
 github_username:  chrislconover
 
 collections: # Enables additional data structures
-  projects: # Enables _projects
+  clients: # Enables _clients, the Recent Highlights timeline
 
 # Build settings
 markdown: kramdown
